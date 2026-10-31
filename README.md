@@ -9,7 +9,7 @@
 An end-to-end machine learning workflow on the **UCI Heart Disease dataset**: exploratory data analysis, missing-value handling, outlier treatment, scaling, encoding, and a baseline **LightGBM** classifier that predicts the severity of heart disease.
 
 Built by **Team Data Dynamics** for the **GDSC UofK AI Bootcamp**, where it ranked **#1** with a score of **9.6** and won the **Best Documentation and Solution** medal.
-
+<p align="center"> <img src="heart_disease_overview.png" alt="Heart disease project overview: data, EDA, cleaning, encoding and scaling, LightGBM model, key findings, preprocessing steps, results and bootcamp recognition" width="100%"> </p>
 ---
 
 ## Table of Contents
@@ -226,7 +226,7 @@ jupyter notebook ML_Project_Bootcamp.ipynb
 |------|-------|
 | Faisal Ali | [LinkedIn](https://www.linkedin.com/in/bawazirfaisal/) |
 | Lina Ahmed | [LinkedIn](https://www.linkedin.com/in/lina-ahmed-alnoosh-0b2085159/) |
-| Nada Ali | [LinkedIn](https://linkedin.com/in/nada-ali) |
+| Nada Ali | [LinkedIn](https://www.linkedin.com/in/nada-ali-0651a6261/) |
 | Abdallah Mohammed | [LinkedIn](#) |
 | Samar | [LinkedIn](#) |
 
